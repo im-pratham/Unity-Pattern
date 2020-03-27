@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/SV.CO/TA/Student Submissions/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
